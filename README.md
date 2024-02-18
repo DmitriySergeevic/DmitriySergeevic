@@ -7,3 +7,4 @@ My telegram: @RookAjax
 
 My discord: @Rook_development
 
+https://www.codewars.com/users/DmitriySergeevic/badges/large
